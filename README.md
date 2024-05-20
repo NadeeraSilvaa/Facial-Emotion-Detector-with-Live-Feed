@@ -10,7 +10,6 @@ This is a Flask-based web application for detecting emotions from webcam feed us
 
 ## Project Structure
 
-```plaintext
 emotion-detection-webapp/
 ├── app.py
 ├── requirements.txt
