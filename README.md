@@ -8,22 +8,6 @@ This is a Flask-based web application for detecting emotions from webcam feed us
 - Uses a convolutional neural network (CNN) for emotion recognition
 - Displays detected emotions on the video feed
 
-## Project Structure
-
-emotion-detection-webapp/
-├── app.py
-├── requirements.txt
-├── templates/
-│   └── index.html
-├── static/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── script.js
-├── haarcascade_frontalface_default.xml
-└── model_file_30epochs.h5
-
-
 ## Getting Started
 
 ### Prerequisites
